@@ -3,8 +3,8 @@
 Im a Computer Science and Software developer working on python to build projects and learning backend development,
 data engineering and AI-based applications.
 
-Check out my analysis of the stack overflow developer survey (2025) [here](https://github.com/faizanazam1/Developer_Survey_Analysis_2025.git)
-A prototype of my fyp using vectorization and local LLms for disease prediction [here](https://github.com/faizanazam1/AI_Scheduler.git)
+-Check out my analysis of the stack overflow developer survey (2025) [here](https://github.com/faizanazam1/Developer_Survey_Analysis_2025.git).
+-A prototype of my fyp using vectorization and local LLms for disease prediction [here](https://github.com/faizanazam1/AI_Scheduler.git).
 <!--
 **faizanazam1/faizanazam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
